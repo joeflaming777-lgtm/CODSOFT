@@ -57,7 +57,7 @@ def copy_password():
 # Main Window
 root = tk.Tk()
 root.title("🔐 Password Generator")
-root.geometry("500x450")
+root.geometry("1000x950")
 root.resizable(False, False)
 root.configure(bg="#1e1e2f")
 
@@ -94,41 +94,56 @@ lower_var = tk.BooleanVar(value=True)
 number_var = tk.BooleanVar(value=True)
 symbol_var = tk.BooleanVar(value=True)
 
+checkbox_frame = tk.Frame(root, bg="#1e1e2f")
+checkbox_frame.pack(pady=25)
+
 tk.Checkbutton(
-    root,
-    text="Uppercase Letters (A-Z)",
+    checkbox_frame,
+    text="Uppercase (A-Z)",
     variable=upper_var,
     bg="#1e1e2f",
     fg="white",
-    selectcolor="#333333"
-).pack(anchor="w", padx=120)
+    selectcolor="#333333",
+    font=("Arial", 14),
+    padx=15,
+    pady=10
+).pack(side="left", padx=15)
 
 tk.Checkbutton(
-    root,
-    text="Lowercase Letters (a-z)",
+    checkbox_frame,
+    text="Lowercase (a-z)",
     variable=lower_var,
     bg="#1e1e2f",
     fg="white",
-    selectcolor="#333333"
-).pack(anchor="w", padx=120)
+    selectcolor="#333333",
+    font=("Arial", 14),
+    padx=15,
+    pady=10
+).pack(side="left", padx=15)
 
 tk.Checkbutton(
-    root,
+    checkbox_frame,
     text="Numbers (0-9)",
     variable=number_var,
     bg="#1e1e2f",
     fg="white",
-    selectcolor="#333333"
-).pack(anchor="w", padx=120)
+    selectcolor="#333333",
+    font=("Arial", 14),
+    padx=15,
+    pady=10
+).pack(side="left", padx=15)
 
 tk.Checkbutton(
-    root,
-    text="Special Characters (!@#$)",
+    checkbox_frame,
+    text="Special (!@#$)",
     variable=symbol_var,
     bg="#1e1e2f",
     fg="white",
-    selectcolor="#333333"
-).pack(anchor="w", padx=120)
+    selectcolor="#333333",
+    font=("Arial", 14),
+    padx=15,
+    pady=10
+).pack(side="left", padx=15)
 
 # Generate Button
 generate_btn = tk.Button(
