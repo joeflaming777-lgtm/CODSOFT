@@ -9,7 +9,7 @@
 ![Game](https://img.shields.io/badge/Type-Game-orange?style=for-the-badge)
 ![CodSoft](https://img.shields.io/badge/CodSoft-Task%204-purple?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-success?style=for-the-badge)
+
 
 <br/>
 
@@ -248,9 +248,7 @@ Contributions are welcome! Feel free to:
 
 ---
 
-# 📄 License
 
-This project is licensed under the **MIT License** - see the LICENSE file for details.
 
 ---
 
