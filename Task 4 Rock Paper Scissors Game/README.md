@@ -254,7 +254,7 @@ Contributions are welcome! Feel free to:
 
 # 👨‍💻 Author
 
-**CodSoft Intern** 
+**CodSoft Intern**  
 Joe Flaming  
 Task 4: Rock Paper Scissors Game  
 *Making learning fun, one game at a time!*
