@@ -254,15 +254,24 @@ Contributions are welcome! Feel free to:
 
 # 👨‍💻 Author
 
-**CodSoft Intern**  
+**CodSoft Intern** 
+<div align="center">
+
+### Joe Flaming
+
+**CodSoft Python Programming Internship**
 Task 4: Rock Paper Scissors Game  
 *Making learning fun, one game at a time!*
+[![GitHub](https://img.shields.io/badge/GitHub-joeflaming777--lgtm-181717?style=for-the-badge\&logo=github)](https://github.com/joeflaming777-lgtm)
+
+</div>
+
 
 ---
 
 <div align="center">
 
-**Made with ❤️ for CodSoft Internship Program**
+ **CodSoft Internship Program**
 
 [⬆ Back to Top](#rock-paper-scissors-ultimate)
 
