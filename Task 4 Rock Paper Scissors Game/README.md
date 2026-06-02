@@ -255,17 +255,9 @@ Contributions are welcome! Feel free to:
 # 👨‍💻 Author
 
 **CodSoft Intern** 
-<div align="center">
-
-### Joe Flaming
-
-**CodSoft Python Programming Internship**
-**Task 4: Rock Paper Scissors Game**  
-**Making learning fun, one game at a time!**
-[![GitHub](https://img.shields.io/badge/GitHub-joeflaming777--lgtm-181717?style=for-the-badge\&logo=github)](https://github.com/joeflaming777-lgtm)
-
-</div>
-
+Joe Flaming  
+Task 4: Rock Paper Scissors Game  
+*Making learning fun, one game at a time!*
 
 ---
 
