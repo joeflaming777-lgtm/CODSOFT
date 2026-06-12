@@ -207,7 +207,7 @@ Python Programming Intern
 GitHub:
 https://github.com/joeflaming777-lgtm 
 linkenin :
-https://www.linkedin.com/in/joe-flaming-970111386)
+(https://www.linkedin.com/in/joe-flaming-563459405/?skipRedirect=true)
 
 ---
 
