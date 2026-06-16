@@ -13,7 +13,7 @@
 
 <br/>
 
-> **To Do List Pro** is a next-generation productivity application built using Python and Tkinter. Unlike traditional task managers, it combines task organization, mental energy routing, productivity analytics, and gamification to help users stay productive while avoiding cognitive overload.
+> **To Do List ** is a next-generation productivity application built using Python and Tkinter. Unlike traditional task managers, it combines task organization, mental energy routing, productivity analytics, and gamification to help users stay productive while avoiding cognitive overload.
 
 <br/>
 
