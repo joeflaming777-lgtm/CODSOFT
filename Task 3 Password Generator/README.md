@@ -202,11 +202,7 @@ The application includes:
 
 ---
 
-# 📄 License
 
-MIT License
-
-Free to use and modify.
 
 ---
 
