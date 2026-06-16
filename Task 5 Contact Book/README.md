@@ -127,29 +127,6 @@ The application window will open immediately — no installation needed.
 
 ---
 
-## 🎨 UI Layout
-
-```
-┌─────────────────────────────────────────────────────┐
-│                  📖 Contact Book                    │  ← Header
-├──────────────┬──────────────────────┬───────────────┤
-│              │  🔍 Search Bar       │               │
-│  📝 Sidebar  │──────────────────────│ 📇 Details    │
-│              │  Contact List Table  │ Card          │
-│  Name        │  ┌──────────────┐   │               │
-│  Phone       │  │ Name | Phone │   │ 👤 Name       │
-│  Email       │  │ ...  | ...   │   │ 📞 Phone      │
-│  Address     │  └──────────────┘   │ ✉ Email       │
-│              │                      │ 🏠 Address    │
-│  [Add]       │                      │               │
-│  [Update]    │                      │               │
-│  [Delete]    │                      │               │
-├──────────────┴──────────────────────┴───────────────┤
-│              Total Contacts: N                       │  ← Footer
-└─────────────────────────────────────────────────────┘
-```
-
----
 
 ## 👤 Author
 
