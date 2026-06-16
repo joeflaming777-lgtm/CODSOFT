@@ -246,11 +246,7 @@ Contributions are welcome! Feel free to:
 - Submit pull requests
 - Improve documentation
 
----
 
-
-
----
 
 # 👨‍💻 Author
 
